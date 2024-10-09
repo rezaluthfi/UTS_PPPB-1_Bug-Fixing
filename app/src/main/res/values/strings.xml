@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pertemuan6</string>
+    <string name="title">Presensi</string>
+    <string name="submit">Submit</string>
+    <string name="keterangan">Keterangan</string>
+    <array name="month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </array>
+</resources>
